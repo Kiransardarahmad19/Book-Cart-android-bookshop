@@ -33,6 +33,22 @@ The animation activity presents an introductory screen with a delay before showi
 ### 10. Menu
 The menu provides access to different sections of the app, including:
 
-The Book Cart application is a fully-featured e-commerce app for book lovers. Developed with Android Studio, this app provides an engaging and user-friendly platform for discovering, purchasing, and managing book orders.
+The Book Cart application is a fully featured e-commerce app for book lovers. Developed with Android Studio, it provides an engaging and user-friendly platform for discovering, purchasing, and managing book orders.
 
+
+## Project Screenshots
+
+Here are some screenshots showcasing the Sign Hope application in action:
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="bb1.jpeg" alt="" width="150"/>
+    <img src="bb2.jpeg" alt="" width="150"/>
+    <img src="bb3.jpeg" alt="" width="150"/>
+</div>
+
+<div style="display: flex; justify-content: space-between; margin-top: 10px;">
+    <img src="bb4.jpeg" alt=" " width="150"/>
+    <img src="bb5.jpeg" alt=" " width="150"/>
+    <img src="bb6.jpeg" alt=" " width="150"/>
+</div>
 
